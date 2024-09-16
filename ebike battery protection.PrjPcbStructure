@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=main relay and current sensor .SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=main relay and current sensor .SchDoc|FileName=mcu and ic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=main relay and current sensor .SchDoc|FileName=ovp.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=main relay and current sensor .SchDoc|FileName=thermal protection.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=main relay and current sensor .SchDoc|FileName=uvp.SchDoc|SheetNumber=2
