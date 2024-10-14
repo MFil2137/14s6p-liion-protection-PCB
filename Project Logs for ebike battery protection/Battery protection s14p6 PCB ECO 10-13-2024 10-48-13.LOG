@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CHARGE Pin=IC2-20
+Added Net: Name=CHARGE
+Added Net: Name=NetIC13_1
+Added Net: Name=NetIC13_4
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Change Class Name : Old Net Name=ovp New Net Name=ovp and charger

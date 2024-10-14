@@ -1,0 +1,10 @@
+Change Component Comment : Designator=J1 Old Comment=XT60PW-F/XT90I-F New Comment=B2B-XH-A
+Change component parameters: Designator = "J1" ("J1"); Footprint = "XT60PWF"; UniqueID = "\OEVSGCZN" ("\OEVSGCZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/5448.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B2B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
