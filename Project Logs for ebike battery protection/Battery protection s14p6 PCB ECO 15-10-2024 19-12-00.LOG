@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net*1_2 Pin=*1-1
+Removed Pin From Net: NetName=VBAT Pin=*1-2
+Removed Pin From Net: NetName=oles_sda Pin=CON1-1
+Removed Pin From Net: NetName=oled_scl Pin=CON1-2
+Removed Pin From Net: NetName=bms rx Pin=CON2-1
+Removed Pin From Net: NetName=bms tx Pin=CON2-2
+Added Pin To Net: NetName=VBAT Pin=*1-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=oled_scl Pin=CON1-1
+Added Pin To Net: NetName=oles_sda Pin=CON1-2
+Added Pin To Net: NetName=bms tx Pin=CON2-1
+Added Pin To Net: NetName=bms rx Pin=CON2-2
