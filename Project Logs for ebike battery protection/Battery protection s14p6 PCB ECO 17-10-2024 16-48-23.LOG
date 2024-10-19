@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Net*1_2 Pin=*1-1
+Removed Pin From Net: NetName=VBAT Pin=*1-2
+Removed Pin From Net: NetName=oled_scl Pin=CON1-1
+Removed Pin From Net: NetName=oles_sda Pin=CON1-2
+Removed Pin From Net: NetName=oled_com Pin=CON1-3
+Removed Pin From Net: NetName=GND Pin=CON1-4
+Added Pin To Net: NetName=VBAT Pin=*1-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=oled_com Pin=CON1-2
+Added Pin To Net: NetName=oled_scl Pin=CON1-3
+Added Pin To Net: NetName=oles_sda Pin=CON1-4
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
