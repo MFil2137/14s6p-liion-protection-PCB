@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=c8-2
+Removed Pin From Net: NetName=GND Pin=c8-3
+Removed Pin From Net: NetName=GND Pin=c8-4
+Removed Pin From Net: NetName=GND Pin=c8-5
+Removed Pin From Net: NetName=GND Pin=c8-6
+Removed Pin From Net: NetName=GND Pin=c8-7
+Removed Pin From Net: NetName=GND Pin=c8-8
+Removed Pin From Net: NetName=GND Pin=c8-9
+Removed Pin From Net: NetName=GND Pin=c8-10
+Removed Pin From Net: NetName=GND Pin=c8-11
+Removed Pin From Net: NetName=GND Pin=c8-12
+Removed Pin From Net: NetName=GND Pin=c8-13
+Removed Pin From Net: NetName=GND Pin=c8-14
+Removed Pin From Net: NetName=GND Pin=c8-15
+Removed Pin From Net: NetName=GND Pin=c8-16
+Removed Pin From Net: NetName=GND Pin=c8-17
+Removed Pin From Net: NetName=GND Pin=c8-18
+Removed Pin From Net: NetName=GND Pin=c8-19
+Removed Pin From Net: NetName=GND Pin=c8-20
+Removed Pin From Net: NetName=GND Pin=c8-21
+Removed Pin From Net: NetName=GND Pin=c8-22
+Removed Pin From Net: NetName=GND Pin=c8-23
+Removed Pin From Net: NetName=GND Pin=c8-24
+Removed Pin From Net: NetName=GND Pin=c8-25
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Added Member To Class: ClassName=main relay and current sensor  Member=Component *1 05903300 relay

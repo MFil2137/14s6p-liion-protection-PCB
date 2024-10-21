@@ -1,0 +1,3 @@
+Added Component: Designator=c8(m3 power hole)
+Added Pin To Net: NetName=GND Pin=c8-1
+Added Member To Class: ClassName=main relay and current sensor  Member=Component c8 1 pin m3 bolt hole

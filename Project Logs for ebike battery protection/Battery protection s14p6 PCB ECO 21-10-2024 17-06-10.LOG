@@ -1,0 +1,19 @@
+Added Component: Designator=Q12(TPH2R306NH1LQ)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/info/docget.jsp?did=69024&prodName=TPH4R50ANH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPH4R50ANH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=Q12-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q12-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q12-3
+Added Pin To Net: NetName=NetIC13_4 Pin=Q12-4
+Added Pin To Net: NetName=VCHR/DIS Pin=Q12-5
+Added Pin To Net: NetName=VCHR/DIS Pin=Q12-6
+Added Pin To Net: NetName=VCHR/DIS Pin=Q12-7
+Added Pin To Net: NetName=VCHR/DIS Pin=Q12-8
+Added Pin To Net: NetName=VCHR/DIS Pin=Q12-9
+Added Member To Class: ClassName=ovp and charger Member=Component Q12 TPH4R50ANH1
