@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BMS_TX Pin=CON2-1
+Removed Pin From Net: NetName=BMS_RX Pin=CON2-3
+Added Pin To Net: NetName=BMS_RX Pin=CON2-1
+Added Pin To Net: NetName=BMS_TX Pin=CON2-3

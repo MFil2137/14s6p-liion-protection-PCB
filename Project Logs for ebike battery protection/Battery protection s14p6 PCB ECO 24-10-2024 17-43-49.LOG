@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=extra4 Pin=CON5-1
+Removed Pin From Net: NetName=3.3v Pin=CON5-2
+Removed Pin From Net: NetName=GND Pin=CON5-3
+Removed Pin From Net: NetName=extra3 Pin=CON9-1
+Removed Pin From Net: NetName=extra3 Pin=CON9-2
+Removed Pin From Net: NetName=extra3 Pin=IC2-26
+Removed Member From Class: ClassName=mcu and voltage regulators Member=CON5
+Added Pin To Net: NetName=extra4 Pin=CON9-2
+Added Pin To Net: NetName=du Pin=IC2-26
+Added Net: Name=du
+Added Pin To Net: NetName=extra5 Pin=CON9-1
+Added Net: Name=extra5

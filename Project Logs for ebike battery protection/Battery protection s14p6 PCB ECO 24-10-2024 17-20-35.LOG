@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=CON2-3
+Removed Pin From Net: NetName=extra4 Pin=IC2-21
+Removed Pin From Net: NetName=extra3 Pin=IC2-22
+Removed Pin From Net: NetName=extra2 Pin=IC2-23
+Removed Pin From Net: NetName=extra1 Pin=IC2-24
+Removed Pin From Net: NetName=oled_com Pin=IC2-30
+Added Component: Designator=CON8(BM04B-SRSS-TB)
+Added Pin To Net: NetName=GND Pin=CON2-2
+Added Pin To Net: NetName=GND Pin=CON8-2
+Added Pin To Net: NetName=oled_com Pin=IC2-1
+Added Pin To Net: NetName=extra2 Pin=IC2-22
+Added Pin To Net: NetName=extra1 Pin=IC2-23
+Added Pin To Net: NetName=extra2 Pin=IC2-26
+Added Pin To Net: NetName=extra1 Pin=IC2-27
+Added Pin To Net: NetName=BMS_RX Pin=CON2-1
+Added Pin To Net: NetName=BMS_RX Pin=IC2-21
+Added Net: Name=BMS_RX
+Added Pin To Net: NetName=BMS_TX Pin=CON2-3
+Added Pin To Net: NetName=BMS_TX Pin=IC2-30
+Added Net: Name=BMS_TX
+Added Pin To Net: NetName=NRST Pin=CON8-4
+Added Pin To Net: NetName=NRST Pin=IC2-6
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=CON8-1
+Added Pin To Net: NetName=SWCLK Pin=IC2-25
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=CON8-3
+Added Pin To Net: NetName=SWDIO Pin=IC2-24
+Added Net: Name=SWDIO
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component CON8 4 PIN

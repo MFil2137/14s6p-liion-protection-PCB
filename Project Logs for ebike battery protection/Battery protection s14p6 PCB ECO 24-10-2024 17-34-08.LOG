@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCU_OK Pin=IC2-19
+Removed Pin From Net: NetName=BMS_TX Pin=IC2-30
+Added Pin To Net: NetName=MCU_OK Pin=IC2-16
+Added Pin To Net: NetName=BMS_TX Pin=IC2-19
+Added Pin To Net: NetName=NetIC2_30 Pin=IC2-30
+Added Net: Name=NetIC2_30
