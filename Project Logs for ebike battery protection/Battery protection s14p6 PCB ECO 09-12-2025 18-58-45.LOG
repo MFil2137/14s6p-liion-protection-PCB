@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=24v Pin=IC3-2
+Removed Pin From Net: NetName=3.3v Pin=R5-2
+Removed Member From Class: ClassName=mcu and voltage regulators Member=R5
+Added Pin To Net: NetName=NetC35_2 Pin=IC3-7
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Net: Name=NetIC3_2
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component IC3 TPS62933DRLR

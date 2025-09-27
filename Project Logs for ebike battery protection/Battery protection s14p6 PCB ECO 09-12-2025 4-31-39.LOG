@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ntc_2 Pin=IC2-13
+Removed Pin From Net: NetName=ntc_3 Pin=IC2-16
+Added Pin To Net: NetName=ntc_3 Pin=IC2-13
+Added Pin To Net: NetName=ntc_2 Pin=IC2-16
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 

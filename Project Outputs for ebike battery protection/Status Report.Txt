@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ebike battery protection.PrjPcb]
+   Generated File[Battery protection s14p6.GTO]
+   Generated File[Battery protection s14p6.GTP]
+   Generated File[Battery protection s14p6.GTS]
+   Generated File[Battery protection s14p6.GTL]
+   Generated File[Battery protection s14p6.GBL]
+   Generated File[Battery protection s14p6.GBS]
+   Generated File[Battery protection s14p6.GBO]
+   Generated File[Battery protection s14p6.GM1]
+   Generated File[Battery protection s14p6.GM13]
+   Generated File[Battery protection s14p6.GM15]
+   Generated File[Battery protection s14p6.GM20]
+   Generated File[Battery protection s14p6.GPT]
+   Generated File[Battery protection s14p6.GPB]
+   Generated File[Battery protection s14p6.RUL]
+   Generated File[Battery protection s14p6.EXTREP]
+   Generated File[Battery protection s14p6.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 19:06:43 On 09/12/2025

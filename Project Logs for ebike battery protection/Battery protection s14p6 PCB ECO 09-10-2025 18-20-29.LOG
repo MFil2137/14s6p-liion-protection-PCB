@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=VIC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=2.5v mcu check Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=2.5v mcu check Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=2.5v mcu check Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=2.5v mcu check Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=2.5v mcu check Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=VIC Pin=D2-1
+Removed Pin From Net: NetName=VBAT Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=VIC Pin=IC1-5
+Removed Pin From Net: NetName=VIC Pin=IC1-6
+Removed Pin From Net: NetName=NetC1_2 Pin=IC1-10
+Removed Pin From Net: NetName=NetC1_1 Pin=IC1-11
+Removed Pin From Net: NetName=NetC1_1 Pin=IC1-12
+Removed Pin From Net: NetName=GND Pin=IC1-13
+Removed Pin From Net: NetName=oles_sda Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=oled_scl Pin=R28-2
+Removed Member From Class: ClassName=mcu and voltage regulators Member=C30
+Removed Member From Class: ClassName=mcu and voltage regulators Member=C31
+Removed Member From Class: ClassName=mcu and voltage regulators Member=C32
+Removed Member From Class: ClassName=main relay and current sensor Member=D2
+Change Component Footprint: Designator=C3 Old Footprint=C 0603 New Footprint=CAPPRD750W80D1825H5150
+Change Component Footprint: Designator=IC1 Old Footprint=SON50P300X300X80-13N New Footprint=SOIC127P600X170-9N
+Change Component Comment : Designator=C28 Old Comment=1uf New Comment=0.1uf/100nf
+Change Component Comment : Designator=C27 Old Comment=1uf New Comment=100nf
+Change Component Comment : Designator=C3 Old Comment=4.7uf New Comment=PJ2E221MNN1832
+Change Component Comment : Designator=R4 Old Comment=6.49k New Comment=27k
+Change Component Comment : Designator=R3 Old Comment=120k New Comment=330k
+Change Component Comment : Designator=IC1 Old Comment=LMR38015SQDRRRQ1 New Comment=LM5012DDAR
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "SON50P300X300X80-13N"; UniqueID = "\BAGGOYFT" ("\BAGGOYFT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LM5012DDAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm5012ddar/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lm5012.pdf?ts=1682242115443&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM5012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM5012DDAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-LM5012DDAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM5012DDAR?qs=T%252BzbugeAwjjzO1eNFM2OsQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C 0603"; UniqueID = "\FSEQMGZZ" ("\FSEQMGZZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/dk/DKDS-12/227335.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "51.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Chemi-Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EKXJ251ELL391MM50S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOM8059X265N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.taiwansemi.com/assets/uploads/datasheet/S8GCH%20SERIES_B2210.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S8MCHR7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "821-S8MCHR7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiwan-Semiconductor/S8MCHR7?qs=AQlKX63v8RvCIiq7OIToww%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VIC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VIC Pin=C27-2
+Added Pin To Net: NetName=24v Pin=C28-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VIC Pin=D3-1
+Added Pin To Net: NetName=VBAT Pin=D3-2
+Added Pin To Net: NetName=VIC Pin=IC1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-7
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=extra3 Pin=IC2-28
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=IC1-5
+Added Pin To Net: NetName=NetC28_2 Pin=R3-1
+Added Pin To Net: NetName=NetC28_2 Pin=R4-2
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=R2-1
+Added Net: Name=NetIC1_6
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component D2 S8MCHR7
+Added Member To Class: ClassName=main relay and current sensor  Member=Component D3 S8MCHR7
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component L1 68uH

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ntc_3 Pin=VR3-A1
+Removed Pin From Net: NetName=ntc_2 Pin=VR4-A1
+Removed Pin From Net: NetName=ntc_1 Pin=VR5-A1
+Removed Pin From Net: NetName=GND Pin=VR5-E1
+Removed Pin From Net: NetName=GND Pin=VR5-S1
+Removed Member From Class: ClassName=thermal protection Member=VR5
+Added Component: Designator=VR1(TRIM_PTN06-D500CB20-H)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.pl/ProductDetail/CUI-Devices/PTN06-D20CB20?qs=Jm2GQyTW%2Fbi6yAl5ToF%252B9A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTN10-E02HB20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-PTN10-E02HB20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PTN10-E02HB20?qs=vvQtp7zwQdPZBhOJTXlYlA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ntc_2 Pin=VR3-A1
+Added Pin To Net: NetName=ntc_1 Pin=VR4-A1
+Added Member To Class: ClassName=thermal protection Member=Component VR1 PTN06-D20CB20

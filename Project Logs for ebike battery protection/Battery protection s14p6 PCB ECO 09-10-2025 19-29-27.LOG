@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=ntc_4 Pin=VR2-A1
+Removed Pin From Net: NetName=GND Pin=VR2-E1
+Removed Pin From Net: NetName=GND Pin=VR2-S1
+Removed Pin From Net: NetName=ntc_2 Pin=VR3-A1
+Removed Pin From Net: NetName=GND Pin=VR3-E1
+Removed Pin From Net: NetName=GND Pin=VR3-S1
+Removed Pin From Net: NetName=ntc_1 Pin=VR4-A1
+Removed Pin From Net: NetName=GND Pin=VR4-E1
+Removed Pin From Net: NetName=GND Pin=VR4-S1
+Removed Member From Class: ClassName=thermal protection Member=VR1
+Removed Member From Class: ClassName=thermal protection Member=VR2
+Removed Member From Class: ClassName=thermal protection Member=VR3
+Removed Member From Class: ClassName=thermal protection Member=VR4
+Added Component: Designator=R27(TRIM_PTN06-D500CB20-H)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN06-D500CB20-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(TRIM_PTN06-D500CB20-H)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN06-D500CB20-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(TRIM_PTN06-D500CB20-H)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN06-D500CB20-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(TRIM_PTN06-D500CB20-H)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN06-D500CB20-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ntc_4 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=ntc_3 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=ntc_2 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=ntc_1 Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetR27_3 Pin=R27-3
+Added Net: Name=NetR27_3
+Added Pin To Net: NetName=NetR28_3 Pin=R28-3
+Added Net: Name=NetR28_3
+Added Pin To Net: NetName=NetR29_3 Pin=R29-3
+Added Net: Name=NetR29_3
+Added Pin To Net: NetName=NetR30_3 Pin=R30-3
+Added Net: Name=NetR30_3
+Added Member To Class: ClassName=thermal protection Member=Component R27 PTN06-D500CB20-H
+Added Member To Class: ClassName=thermal protection Member=Component R28 PTN06-D500CB20-H
+Added Member To Class: ClassName=thermal protection Member=Component R29 PTN06-D500CB20-H
+Added Member To Class: ClassName=thermal protection Member=Component R30 PTN06-D500CB20-H

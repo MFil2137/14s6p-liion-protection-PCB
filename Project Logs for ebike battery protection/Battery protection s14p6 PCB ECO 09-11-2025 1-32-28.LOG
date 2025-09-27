@@ -1,0 +1,6 @@
+Added Component: Designator=CON5(BM04B-SRSS-TB)
+Added Pin To Net: NetName=NetCON5_1 Pin=CON5-1
+Added Pin To Net: NetName=NetCON5_2 Pin=CON5-2
+Added Pin To Net: NetName=3.3v Pin=CON5-3
+Added Pin To Net: NetName=GND Pin=CON5-4
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component CON5 4 PIN

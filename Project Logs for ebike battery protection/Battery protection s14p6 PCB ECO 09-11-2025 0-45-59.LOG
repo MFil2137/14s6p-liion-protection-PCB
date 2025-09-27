@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3.3v Pin=CON9-3
+Added Component: Designator=C33(R 0402)
+Added Component: Designator=C34(R 0402)
+Added Pin To Net: NetName=3.3v Pin=C33-1
+Added Pin To Net: NetName=oled_sda Pin=C33-2
+Added Pin To Net: NetName=3.3v Pin=C34-1
+Added Pin To Net: NetName=oled_scl Pin=C34-2
+Added Pin To Net: NetName=NetCON9_3 Pin=CON9-3
+Added Net: Name=NetCON9_3
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component C33 100nf
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component C34 100nf

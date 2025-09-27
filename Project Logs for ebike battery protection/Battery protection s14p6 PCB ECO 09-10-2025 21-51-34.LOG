@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=24v Pin=R5-2
+Added Pin To Net: NetName=3.3v Pin=R5-2
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Added Member To Class: ClassName=main relay and current sensor  Member=Component D3 S8MCHR7
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component R4 27k

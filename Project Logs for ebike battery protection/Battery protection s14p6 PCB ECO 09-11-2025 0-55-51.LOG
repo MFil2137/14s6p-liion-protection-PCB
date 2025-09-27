@@ -1,0 +1,8 @@
+Added Component: Designator=C29(C 0603)
+Added Component: Designator=C30(C 0603)
+Added Pin To Net: NetName=3.3v Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=3.3v Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component C29 100nf
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component C30 100nf

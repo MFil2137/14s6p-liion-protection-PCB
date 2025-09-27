@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3.3v Pin=CON3-1
+Removed Pin From Net: NetName=ntc_1 Pin=CON3-2
+Removed Pin From Net: NetName=ntc_2 Pin=CON3-3
+Removed Pin From Net: NetName=3.3v Pin=CON4-1
+Removed Pin From Net: NetName=ntc_4 Pin=CON4-2
+Removed Pin From Net: NetName=ntc_3 Pin=CON4-3
+Added Pin To Net: NetName=ntc_1 Pin=CON3-1
+Added Pin To Net: NetName=ntc_2 Pin=CON3-2
+Added Pin To Net: NetName=3.3v Pin=CON3-3
+Added Pin To Net: NetName=ntc_4 Pin=CON4-1
+Added Pin To Net: NetName=ntc_3 Pin=CON4-2
+Added Pin To Net: NetName=3.3v Pin=CON4-3

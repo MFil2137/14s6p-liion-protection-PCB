@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=MCU_OK Pin=IC2-16
+Removed Pin From Net: NetName=alert Pin=IC2-18
+Removed Pin From Net: NetName=BMS_TX Pin=IC2-19
+Removed Pin From Net: NetName=CHARGE Pin=IC2-20
+Removed Pin From Net: NetName=BMS_RX Pin=IC2-21
+Removed Pin From Net: NetName=extra2 Pin=IC2-22
+Removed Pin From Net: NetName=extra1 Pin=IC2-23
+Removed Pin From Net: NetName=extra4 Pin=IC2-26
+Removed Pin From Net: NetName=extra5 Pin=IC2-27
+Removed Pin From Net: NetName=oled_scl Pin=IC2-32
+Added Pin To Net: NetName=CHARGE Pin=IC2-14
+Added Pin To Net: NetName=MCU_OK Pin=IC2-15
+Added Pin To Net: NetName=alert Pin=IC2-16
+Added Pin To Net: NetName=oled_com Pin=IC2-18
+Added Pin To Net: NetName=oled_scl Pin=IC2-19
+Added Pin To Net: NetName=extra1 Pin=IC2-26
+Added Pin To Net: NetName=extra2 Pin=IC2-27
+Added Pin To Net: NetName=extra4 Pin=IC2-29
+Added Pin To Net: NetName=BMS_TX Pin=IC2-30
+Added Pin To Net: NetName=BMS_RX Pin=IC2-31
+Added Pin To Net: NetName=extra5 Pin=IC2-32
+Added Pin To Net: NetName=NetIC2_20 Pin=IC2-20
+Added Net: Name=NetIC2_20
+Added Pin To Net: NetName=NetIC2_22 Pin=IC2-22
+Added Net: Name=NetIC2_22
+Added Pin To Net: NetName=NetIC2_23 Pin=IC2-23
+Added Net: Name=NetIC2_23
+Added Pin To Net: NetName=oled_sda Pin=CON1-4
+Added Pin To Net: NetName=oled_sda Pin=IC2-21
+Added Net: Name=oled_sda

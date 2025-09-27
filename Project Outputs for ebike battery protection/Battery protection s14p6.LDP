@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\GITHUB repos\14s6p-liion-protection-PCB\Battery protection s14p6.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=battery protection s14p6-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=battery protection s14p6-slotholes.txt|DrillLayers=gtl,gbl

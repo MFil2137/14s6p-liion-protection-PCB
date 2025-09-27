@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=oled_com Pin=IC2-18
+Removed Pin From Net: NetName=oled_scl Pin=IC2-19
+Removed Pin From Net: NetName=oled_sda Pin=IC2-21
+Added Pin To Net: NetName=oled_sda Pin=IC2-19
+Added Pin To Net: NetName=oled_scl Pin=IC2-21
+Added Pin To Net: NetName=oled_com Pin=IC2-22
+Added Pin To Net: NetName=NetIC2_18 Pin=IC2-18
+Added Net: Name=NetIC2_18

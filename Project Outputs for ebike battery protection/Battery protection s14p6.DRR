@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Battery protection s14p6.PcbDoc   09/12/2025  19:04:08
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Battery protection s14p6-RoundHoles.TXT
+ASCII SlotHoles File : Battery protection s14p6-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             499       PTH        41.13inch (1044.78mm)
+T2      28mil (0.7mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.10inch (2.50mm)
+T4      35mil (0.9mm)                                             Round             12        PTH        2.21inch (56.13mm)
+T5      39mil (1mm)                                               Round             2         PTH        0.30inch (7.50mm)
+T6      59mil (1.5mm)                                             Round             2         PTH        0.59inch (15.00mm)
+T7      59mil (1.5mm)                                             Slot              2         PTH        1.15inch (29.28mm)
+T8      63mil (1.6mm)                                             Round             50        PTH        7.12inch (180.74mm)
+T9      134mil (3.4mm)                                            Round             4         PTH        10.03inch (254.67mm)
+T10     181mil (4.6mm)                                            Round             3         PTH        2.71inch (68.84mm)
+T11     252mil (6.4mm)                                            Round             2         PTH        1.14inch (29.00mm)
+T12     98mil (2.5mm)                                             Round             4         NPTH       0.93inch (23.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              584
+
+Total Processing Time (hh:mm:ss) : 00:00:00

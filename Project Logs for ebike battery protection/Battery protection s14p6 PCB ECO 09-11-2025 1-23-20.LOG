@@ -1,0 +1,4 @@
+Added Component: Designator=R20(R 0402)
+Added Pin To Net: NetName=error pull down Pin=R20-1
+Added Pin To Net: NetName=3.3v Pin=R20-2
+Added Member To Class: ClassName=main relay and current sensor  Member=Component R20 10K

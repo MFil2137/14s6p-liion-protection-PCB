@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ntc_2 Pin=CON3-1
+Removed Pin From Net: NetName=ntc_1 Pin=CON3-3
+Added Pin To Net: NetName=ntc_1 Pin=CON3-1
+Added Pin To Net: NetName=ntc_2 Pin=CON3-3
+Change Class Name : Old Net Name=main relay and current sensor New Net Name=main relay and current sensor 
+Added Member To Class: ClassName=thermal protection Member=Component CON4 4 PIN
+Added Member To Class: ClassName=mcu and voltage regulators Member=Component IC4 LT1790BCS6-2.048#TRMPBF
+Added Member To Class: ClassName=ovp and charger Member=Component R15 du
+Added Member To Class: ClassName=main relay and current sensor  Member=Component R20 10K
+Added Member To Class: ClassName=thermal protection Member=Component R29 PTN06-D500CB20-H

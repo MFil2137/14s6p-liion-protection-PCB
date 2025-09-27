@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=thermal_3 Pin=Q3-1
+Removed Pin From Net: NetName=thermal_2 Pin=Q6-1
+Added Pin To Net: NetName=thermal_2 Pin=Q3-1
+Added Pin To Net: NetName=thermal_3 Pin=Q6-1

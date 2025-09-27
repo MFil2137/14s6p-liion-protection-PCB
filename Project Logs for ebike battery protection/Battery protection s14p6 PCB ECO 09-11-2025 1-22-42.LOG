@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=error pull down Pin=IC3-7
+Removed Pin From Net: NetName=error pull down Pin=R5-1
+Added Pin To Net: NetName=3.3v error Pin=IC3-7
+Added Pin To Net: NetName=3.3v error Pin=R5-1
+Added Net: Name=3.3v error
